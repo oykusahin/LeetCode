@@ -56,4 +56,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/oykusahin/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/oykusahin/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
