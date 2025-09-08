@@ -59,5 +59,6 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/oykusahin/LeetCode/tree/master/0058-length-of-last-word) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/oykusahin/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
