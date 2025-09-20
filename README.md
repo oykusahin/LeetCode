@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/oykusahin/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/oykusahin/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -68,11 +69,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/oykusahin/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/oykusahin/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
