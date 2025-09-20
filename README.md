@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/oykusahin/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/oykusahin/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -67,9 +68,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
