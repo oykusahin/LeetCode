@@ -1,13 +1,18 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        res = [[1]]
+        if numRows == 0:
+            return []
+        if numRows == 1:
+            return [[1]]
 
-        for _ in range(numRows - 1):
-            dummy_row = [0] + res[-1] + [0]
-            row = []
+        prev_rows = self.generate(numRows - 1)
+        prev_row = prev_rows[-1]
+        current_row = [1]
 
-            for i in range(len(res[-1]) + 1):
-                row.append(dummy_row[i] + dummy_row[i+1])
-            res.append(row)
-        
-        return res
+        for i in range(1, numRows - 1):
+            current_row.append(prev_row[i - 1] + prev_row[i])
+
+        current_row.append(1)
+        prev_rows.append(current_row)
+
+        return prev_rows
