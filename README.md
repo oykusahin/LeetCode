@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/oykusahin/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/oykusahin/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/oykusahin/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -63,4 +64,12 @@
 | [0058-length-of-last-word](https://github.com/oykusahin/LeetCode/tree/master/0058-length-of-last-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/oykusahin/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/oykusahin/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
