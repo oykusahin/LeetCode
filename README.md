@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/oykusahin/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/oykusahin/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/oykusahin/LeetCode/tree/master/0136-single-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/oykusahin/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/oykusahin/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/oykusahin/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/oykusahin/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/oykusahin/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
