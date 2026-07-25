@@ -7,6 +7,7 @@
 | [0118-pascals-triangle](https://github.com/oykusahin/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/oykusahin/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/oykusahin/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/oykusahin/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/oykusahin/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/oykusahin/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/oykusahin/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/oykusahin/LeetCode/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/oykusahin/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/oykusahin/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
