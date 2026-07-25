@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/oykusahin/LeetCode/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/oykusahin/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/oykusahin/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/oykusahin/LeetCode/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/oykusahin/LeetCode/tree/master/0015-3sum) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/oykusahin/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/oykusahin/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
@@ -90,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/oykusahin/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/oykusahin/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
