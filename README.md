@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/oykusahin/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/oykusahin/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oykusahin/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/oykusahin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/oykusahin/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/oykusahin/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -77,6 +78,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/oykusahin/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/oykusahin/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/oykusahin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/oykusahin/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/oykusahin/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
@@ -106,4 +108,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/oykusahin/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/oykusahin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/oykusahin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
