@@ -2,7 +2,7 @@ class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         dup = {}
         for i, n in enumerate(nums):
-            if n in dup.keys():
+            if n in dup:
                 if i - dup[n] <= k:
                     return True
             dup[n]= i
