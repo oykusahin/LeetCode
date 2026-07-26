@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/oykusahin/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/oykusahin/LeetCode/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/oykusahin/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/oykusahin/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -17,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/oykusahin/LeetCode/tree/master/0001-two-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/oykusahin/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/oykusahin/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
