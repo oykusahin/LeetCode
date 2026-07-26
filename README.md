@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/oykusahin/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/oykusahin/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/oykusahin/LeetCode/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/oykusahin/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/oykusahin/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -52,6 +53,7 @@
 | ------- |
 | [0015-3sum](https://github.com/oykusahin/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/oykusahin/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/oykusahin/LeetCode/tree/master/0242-valid-anagram) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/oykusahin/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/oykusahin/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/oykusahin/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/oykusahin/LeetCode/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/oykusahin/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/oykusahin/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
