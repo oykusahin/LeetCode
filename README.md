@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/oykusahin/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/oykusahin/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/oykusahin/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/oykusahin/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1917-maximum-average-pass-ratio](https://github.com/oykusahin/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/oykusahin/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/oykusahin/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -25,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/oykusahin/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/oykusahin/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/oykusahin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/oykusahin/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/oykusahin/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/oykusahin/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/oykusahin/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/oykusahin/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
