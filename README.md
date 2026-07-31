@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/oykusahin/LeetCode/tree/master/0136-single-number) |
+| [0868-binary-gap](https://github.com/oykusahin/LeetCode/tree/master/0868-binary-gap) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/oykusahin/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/oykusahin/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
